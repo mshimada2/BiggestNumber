@@ -30,7 +30,7 @@ int main()
     }
 
 
-  cout<<"Of those two numbers, the biggest is: "<<biggest<<endl;
+  cout<<"Of those two numbers, the biggest is: "<<biggest;
   cout<<endl<<"Thank you for playing.\n";
 
   
